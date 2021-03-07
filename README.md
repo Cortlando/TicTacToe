@@ -1,2 +1,2 @@
 # TicTacToe
- C++ command line tic-tac-toe game
+Command line, 2 player, tic-tac toe game. Written in C++ 
